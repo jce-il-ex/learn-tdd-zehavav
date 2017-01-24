@@ -17,10 +17,10 @@ For students, follow these steps:
 #### My details:
 
 - Excercise: HW4 - TDD
-- Name:  
-- ID#:
-- github username: 
-- Estimation of hours I worked on it: 
+- Name:  Zehava Libi Vilman
+- ID#: 314756073
+- github username: zehavav
+- Estimation of hours I worked on it: 1 Hour 10 minits
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
@@ -455,7 +455,7 @@ There are other tool that can be chained, see for example the badges in the begi
 
 Update the link below in the README file, to point to **your** repository status (as well as in the beginning).
 
-[![Travis Build Status](https://travis-ci.org/jce-il/learn-mocha.svg)](https://travis-ci.org/jce-il/learn-mocha)
+[![Travis Build Status](https://travis-ci.org/jce-il-ex/learn-tdd-zehavav.svg)](https://travis-ci.org/jce-il-ex/learn-tdd-zehavav)
 
 ![REFACTOR](https://raw.github.com/jce-il/learn-mocha/master/images/blue-circle-icon.png "REFACTOR")
 
